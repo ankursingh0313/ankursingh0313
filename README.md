@@ -1,3 +1,7 @@
+# Ankur Singh
+
+I've been a FullStack developer since 2018, and have worked on various projects using multiple technologies.
+
 ## Technologies I'm working on,
 
 <img src="./images/node-js.png" width="48"><img src="./images/mongodb.svg" width="48"><img src="./images/science.png" width="48"><img src="./images/Express-js.png" width="48">
