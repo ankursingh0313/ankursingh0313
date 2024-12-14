@@ -2,6 +2,7 @@
 
 ---
 
+<img src="./images/html.png" width="24">
 <!---
 ankursingh0313/ankursingh0313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
