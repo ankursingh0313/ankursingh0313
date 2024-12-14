@@ -6,6 +6,9 @@
 - 📫 @email - ankursingh0313@gmail.com
 
 <img src="./images/Mongodb.png" width="48">
+<img src="./images/Express-js.png" width="48">
+<img src="./images/science.png" width="48">
+<img src="./images/node-js.png" width="48">
 
 ---
 
