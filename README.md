@@ -5,8 +5,7 @@
 - 👀 I’m also interested in BlockChain
 - 📫 @email - ankursingh0313@gmail.com
 
-| :-------: | :-----------------------------------------: |
-| `ableton` | <img src="./images/Mongodb.png" width="48"> |
+<img src="./images/Mongodb.png" width="48">
 
 ---
 
