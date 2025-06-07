@@ -23,9 +23,9 @@
   <img src="./images/Express-js.png" width="48" title="Express.js" />
   <img src="./images/mongodb.svg" width="48" title="MongoDB" />
   <img src="./images/science.png" width="48" title="React / React Native" />
-  <img src="./images/typescript.svg" width="48" title="TypeScript" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBsWMuMzWCJ6vJrKqYjqMTinRWvtS5GsjoSA&s" width="48" title="Firebase" />
-  <img src="./images/socketio.svg" width="48" title="Socket.IO" />
+  <img src="./images/typescript.png" width="48" title="TypeScript" />
+  <img src="./images/firebase.png" width="48" title="Firebase" />
+  <img src="./images/socket.io.png" width="48" title="Socket.IO" />
 </p>
 
 ---
