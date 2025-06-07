@@ -54,8 +54,8 @@
 ### 📬 Get in Touch
 
 - 📧 Email: [ankursingh0313@gmail.com](mailto:ankursingh0313@gmail.com)
-- 🧑‍💼 LinkedIn: *(add your LinkedIn if available)*
-- 🌐 Portfolio: *(optional — add if you have a personal site)*
+- 🧑‍💼 LinkedIn: [Ankur Singh](https://www.linkedin.com/in/ankur-singh-874820353)
+- 🌐 Portfolio: *(Will update soon)*
 
 ---
 
