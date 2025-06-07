@@ -62,14 +62,14 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankursingh0313&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankursingh0313&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankursingh0313&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankursingh0313&show_icons=true&theme=gotham" height="100" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankursingh0313&theme=gotham" height="100" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankursingh0313&layout=compact&theme=gotham" height="100" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankursingh0313&theme=radical" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ankursingh0313&theme=onestar&title=Experience,Commits,Repositories,Issues,Reviews,PullRequest" alt="GitHub Trophy" />
   </a>
 </p>
 <p align="center">
