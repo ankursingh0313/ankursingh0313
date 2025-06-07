@@ -2,23 +2,25 @@
 
 <p align="center">
   🚀 Full-Stack Developer | 🧠 Tech Enthusiast | 💡 Problem Solver<br>
-  <em>Building web & blockchain experiences since 2018</em>
+  <em>Passionate about turning complex problems into clean, maintainable code</em>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🧑‍💻 Full-stack developer since 2018
-- 🛠️ Passionate about crafting scalable backend systems & sleek frontends
-- 🔗 Exploring Web3 & Blockchain integrations
-- 🎯 Focused on writing clean, maintainable code
+- Full-stack developer since 2018
+- Passionate about crafting scalable backend systems & sleek frontends
+- Exploring Web3 & Blockchain integrations
+- Focused on writing clean, maintainable code
 
 ---
 
-### 🧰 Technologies I'm Working With
-
-<p align="left">
+<div>
+<span align="left">
+  
+  
+### Technologies I'm Working With
   <img src="./images/node-js.png" width="48" title="Node.js" />
   <img src="./images/Express-js.png" width="48" title="Express.js" />
   <img src="./images/mongodb.svg" width="48" title="MongoDB" />
@@ -26,13 +28,11 @@
   <img src="./images/typescript.png" width="48" title="TypeScript" />
   <img src="./images/firebase.png" width="48" title="Firebase" />
   <img src="./images/socket.io.png" width="48" title="Socket.IO" />
-</p>
+</span>
 
----
-
-### 🧠 Technologies I Know
-
-<p align="left">
+<span align="left">
+  
+### Technologies I Know
   <img src="./images/html.png" width="24" title="HTML" />
   <img src="./images/css-3.png" width="24" title="CSS" />
   <img src="./images/bootstrap.png" width="24" title="Bootstrap" />
@@ -47,7 +47,8 @@
   <img src="./images/letter-c.png" width="24" title="C" />
   <img src="./images/c-.png" width="24" title="C++" />
   <img src="./images/c-sharp.png" width="24" title="C#" />
-</p>
+</span>
+</div>
 
 ---
 
@@ -58,13 +59,28 @@
 - 🌐 Portfolio: *(Will update soon)*
 
 ---
+### 📊 GitHub Stats
 
-### 📌 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankursingh0313&show_icons=true&theme=radical" alt="Ankur's GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankursingh0313&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankursingh0313&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankursingh0313&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankursingh0313&theme=radical" alt="GitHub Trophy" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankursingh0313&theme=gotham" alt="GitHub Contribution Graph (fallback)" />
+</p>
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankursingh0313.ankursingh0313" alt="Visitor Badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ff00&width=435&lines=Hello+there!+I'm+Ankur+Singh;Full-stack+developer+and+tech+enthusiast;Let's+build+something+great!" alt="Typing SVG" />
+</p>
+
