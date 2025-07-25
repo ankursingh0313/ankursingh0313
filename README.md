@@ -1,11 +1,12 @@
-<h1 align="center">Hey there! 👋 I'm Ankur Singh</h1>
+   # Ankur Singh
+  <p>
+    Full-Stack Developer | Tech Enthusiast | Problem Solver<br>
+    <em>Passionate about turning complex problems into clean, maintainable code</em>
+  </p>
 
-<p align="center">
-  🚀 Full-Stack Developer | 🧠 Tech Enthusiast | 💡 Problem Solver<br>
-  <em>Passionate about turning complex problems into clean, maintainable code</em>
-</p>
 
----
+
+
 
 ### About Me
 
@@ -14,7 +15,7 @@
 - Exploring Web3 & Blockchain integrations
 - Focused on writing clean, maintainable code
 
----
+
 
 <div>
 <span align="left">
@@ -52,15 +53,6 @@
 
 ---
 
-### 📬 Get in Touch
-
-- 📧 Email: [ankursingh0313@gmail.com](mailto:ankursingh0313@gmail.com)
-- 🧑‍💼 LinkedIn: [Ankur Singh](https://www.linkedin.com/in/ankur-singh-874820353)
-- 🌐 Portfolio: *(Will update soon)*
-
----
-### 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ankursingh0313&show_icons=true&theme=gotham" height="120" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankursingh0313&theme=gotham" height="120" alt="GitHub Streak" />
@@ -74,12 +66,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankursingh0313&theme=gotham" height="150" alt="GitHub Contribution Graph (fallback)" />
 </p> -->
 
+---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ankur-singh-874820353" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ankursingh0313@gmail.com">  
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Soon...-grayblue?style=for-the-badge&logo=torbrowser&logoColor=white" />
+</a>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ankursingh0313.ankursingh0313" alt="Visitor Badge" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00ff00&width=435&lines=Hello+there!+I'm+Ankur+Singh;Full-stack+developer+and+tech+enthusiast;Let's+build+something+great!" alt="Typing SVG" />
-</p>
-
