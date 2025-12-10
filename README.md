@@ -54,13 +54,13 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankursingh0313&show_icons=true&theme=gotham" height="120" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankursingh0313&theme=gotham" height="120" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankursingh0313&layout=compact&theme=gotham" height="120" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankursingh0313&show_icons=true&theme=gotham" height="120" />
+  <img src="https://streak-stats.demolab.com?user=ankursingh0313&theme=gotham" height="120" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankursingh0313&layout=compact&theme=gotham" height="120" />
 </p>
 
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankursingh0313&theme=onestar&title=Experience,Commits,Repositories,Issues,Reviews,PullRequest" alt="GitHub Trophy" height="100" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ankursingh0313&theme=onestar&title=Experience,Commits,Repositories,Issues,Reviews,PullRequest" height="100" />
 </p>
 <!--   <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankursingh0313&theme=gotham" height="150" alt="GitHub Contribution Graph (fallback)" />
