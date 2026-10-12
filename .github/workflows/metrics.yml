@@ -19,7 +19,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          config_order: base.header, isocalendar, languages, lines
+          config_order: base.header, isocalendar, languages
 
           # Isometric 3D Calendar
           plugin_isocalendar: yes
@@ -32,8 +32,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
-
-          # Lines of code (replaces buggy habits)
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
