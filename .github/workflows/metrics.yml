@@ -17,7 +17,7 @@ jobs:
       - name: Generate Tokyo-Night Infographic Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: ankursingh0313
           template: classic
           base: header, activity, community, repositories, metadata
